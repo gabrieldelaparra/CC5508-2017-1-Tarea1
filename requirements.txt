@@ -1,0 +1,3 @@
+argparse
+jupyter
+scikit-image
