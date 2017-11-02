@@ -1,9 +1,18 @@
+---
+title: esteganografia
+date: 2017-09-30 15:03:53
+tags:
+---
 
 # Esteganografía
 
 Este proyecto consiste en esconder texto dentro de una imagen de tal forma que tanto el texto como la imagen no se vean (afectada en el caso de la imagen) a simple vista. Dicha técnica se conoce como Esteganografía.
 
 Se trabajará con Python para generar un mensaje codificado, de tal forma que contenta el número de bits significativos de la imagen sobre los que se esconde el texto, el texto como tal y un mensaje de fin. Dicho mensaje de término se agregó para indicarle al código que la lectura debería llegar hasta dicho punto.
+
+[Repo en Github](https://github.com/gabrieldelaparra/pai-tarea1)
+
+[Reporte en Overleaf](https://www.overleaf.com/read/fywmrdppxjhn)
 
 # Introducción
 
